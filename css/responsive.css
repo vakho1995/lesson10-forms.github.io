@@ -1,0 +1,8 @@
+@media(max-width:740px){
+    .nav-li:not(.active){
+        display: none;
+    }
+    .conteiner{
+        width: 70%;
+    }
+}
